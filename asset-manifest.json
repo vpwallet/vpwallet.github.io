@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a479bbf0.css",
+    "main.js": "/static/js/main.2808ebec.js",
+    "static/js/787.925c773d.chunk.js": "/static/js/787.925c773d.chunk.js",
+    "static/media/bgLines.png": "/static/media/bgLines.04147a28dcfd253aa083.png",
+    "static/media/phoneMobile.svg": "/static/media/phoneMobile.1f7cb812b419df0206db681540ee4a39.svg",
+    "static/media/iphonePc.svg": "/static/media/iphonePc.c53c77bfce052266bf8b6e52094b86a7.svg",
+    "static/media/card.png": "/static/media/card.8c4ee13abbd2f6c22a3f.png",
+    "static/media/wallet.png": "/static/media/wallet.68b26d68e5795c223f6d.png",
+    "static/media/walletMobile.png": "/static/media/walletMobile.8bb2bfa7f6e32f4af6ef.png",
+    "static/media/iban.png": "/static/media/iban.871694ad0e3f2f98ce48.png",
+    "static/media/cardMobile.png": "/static/media/cardMobile.9d72134970bdbc280bd7.png",
+    "static/media/ibanMobile.png": "/static/media/ibanMobile.e1263c435771220ef496.png",
+    "index.html": "/index.html",
+    "static/media/check.svg": "/static/media/check.7c0074468068d8aec15ee1bb905b27ad.svg",
+    "static/media/menu.svg": "/static/media/menu.44aa6dd7afc93e6974b530c0a80c76af.svg",
+    "static/media/close.svg": "/static/media/close.7652bbbe59c72ba72379387b4753f78b.svg",
+    "static/media/circleMobile.svg": "/static/media/circleMobile.f9441e96fb5a5a9817259d72aadfa162.svg",
+    "static/media/circlePc.svg": "/static/media/circlePc.13325221efc8e9b299ccf9e9b76e89d3.svg",
+    "main.a479bbf0.css.map": "/static/css/main.a479bbf0.css.map",
+    "main.2808ebec.js.map": "/static/js/main.2808ebec.js.map",
+    "787.925c773d.chunk.js.map": "/static/js/787.925c773d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a479bbf0.css",
+    "static/js/main.2808ebec.js"
+  ]
+}
